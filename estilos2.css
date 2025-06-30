@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: url(multimedia/images.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:75%;
+}
+p{
+  color: black;
+}
+h2{
+  color: black;
+  text-decoration: none;
+}
+h3{
+  color: black;
+}
+.centrada {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 50%;
+}
+table{
+  color: black;
+  background-color: white;
+}
